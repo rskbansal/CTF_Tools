@@ -9,7 +9,7 @@ You may find all the upcoming & ongoing CTFs on [CTFtime](https://ctftime.org/ev
 - Web
 - Forensics
 - Web3
-- Cryptography
+- [Cryptography](/CRYPTO.md)
 
 ## Contributing 
 If you know any useful tools that you used for solving CTF challenges or any other tool which might be of use to these, then you are most welcomed to make a Pull Request.

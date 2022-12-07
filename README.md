@@ -1,7 +1,7 @@
 # CTF_Tools
 Find different tools and techniques used to solve a CTF challenge!
 
-# Categories
+## Categories
 - Reverse Engineering
 - Miscellaneous
 - OSINT
@@ -9,3 +9,5 @@ Find different tools and techniques used to solve a CTF challenge!
 - Forensics
 - Web3
 - Cryptography
+
+## Contributing

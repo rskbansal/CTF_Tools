@@ -5,7 +5,7 @@ You may find all the upcoming & ongoing CTFs on [CTFtime](https://ctftime.org/ev
 ## Categories
 - [Cryptography](/CRYPTO.md)
 - [Reverse Engineering](/REV.md)
-- [Forensics]
+- [Forensics](/FORENSICS.md)
 - Miscellaneous
 - OSINT
 - Web

@@ -18,3 +18,8 @@ dCode.fr is a collection of over 800 tools to help solve games, riddles, ciphers
   ![](assets/img/dcode3.png)<br><br>
 4. Wohoo! You will be able to see the decoded plaintext in the left ***Results*** bar<br><br>
   ![](assets/img/dcode4.png)
+
+## Additional Tools
+- [Cryptii](https://cryptii.com/)
+- [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- [CyberChef](https://gchq.github.io/CyberChef/)

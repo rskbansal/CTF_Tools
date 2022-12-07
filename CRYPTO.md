@@ -6,6 +6,8 @@ a given ***plaintext*** (message to be hidden) into a secure ***ciphertext*** (t
 message to be transmitted).
 
 ## The Bible - [dCode.fr](https://www.dcode.fr/en)
+<img src="assets/img/dcode_logo.png" alt="drawing" width="100"/>
+
 dCode.fr is a collection of over 800 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc. The most useful tool for solving cryptography CTF challenges is the [Cipher Identifier](https://www.dcode.fr/cipher-identifier).
 
 1. Enter the ciphertext in the identifier and click `ANALYZE`

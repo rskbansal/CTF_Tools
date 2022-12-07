@@ -10,11 +10,11 @@ message to be transmitted).
 
 dCode.fr is a collection of over 800 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc. The most useful tool for solving cryptography CTF challenges is the [Cipher Identifier](https://www.dcode.fr/cipher-identifier).
 
-1. Enter the ciphertext in the identifier and click `ANALYZE`
+1. Enter the ciphertext in the identifier and click `ANALYZE`  
   ![](assets/img/dcode1.png)
-2. Choose the recommended encryption/encoding from the left ***Results*** bar, in this case `Base64 Coding`
+2. Choose the recommended encryption/encoding from the left ***Results*** bar, in this case `Base64 Coding`  
   ![](assets/img/dcode2.png)
-3. A new tab opens up for the selected encryption/encoding. Enter the same ciphertext again and click `DECRYPT BASE64`
+3. A new tab opens up for the selected encryption/encoding. Enter the same ciphertext again and click `DECRYPT BASE64`  
   ![](assets/img/dcode3.png)
-4. Wohoo! You will be able to see the decoded plaintext in the left ***Results*** bar
+4. Wohoo! You will be able to see the decoded plaintext in the left ***Results*** bar  
   ![](assets/img/dcode4.png)

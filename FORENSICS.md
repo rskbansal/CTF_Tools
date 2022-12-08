@@ -8,5 +8,6 @@ In a CTF context, Forensics involves any challenge which requires to examine and
 ## File Formats
 The first and the fore-most thing to check is the file format of the given file. You can use the `file` command to do the same.
 ```console
-$ file <filename>
+$ file <file_name>
 ```
+![](assets/img/file.png)
